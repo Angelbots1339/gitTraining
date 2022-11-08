@@ -1,2 +1,3 @@
-Add your name below
+Add your name below:
 -Ethan Berk 
+-Evan Daly
