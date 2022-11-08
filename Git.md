@@ -1,3 +1,5 @@
-Add your name below
--Ethan Berk
+Add your name below:
+-Ethan Berk 
+-Evan Daly
 -Eustolio Earle Aldere
+
